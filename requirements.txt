@@ -1,7 +1,6 @@
 streamlit
 pdfplumber
-requests
 pillow
-pandas
 reportlab
-openpyxl
+pandas
+requests
